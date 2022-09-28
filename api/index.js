@@ -8,7 +8,7 @@ const ResultsURL = 'https://livescore6.p.rapidapi.com/matches/v2/list-live'
 const options = {
     params: {Category: 'soccer', Date: '20220920'},
     headers: {
-      'X-RapidAPI-Key': 'c132740728mshb083468ea77438ep1510bfjsn99bc274f1e08',
+      'X-RapidAPI-Key': 'xxxxxxxxxxxxxxx', //Your key here
       'X-RapidAPI-Host': 'livescore6.p.rapidapi.com'
     }
   };
